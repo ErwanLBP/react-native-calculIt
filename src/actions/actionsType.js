@@ -1,0 +1,3 @@
+export const FINISHED_COUNTING = 'FINISHED_COUNTING';
+
+export const CHECK_RESULT = 'CHECK_RESULT';
